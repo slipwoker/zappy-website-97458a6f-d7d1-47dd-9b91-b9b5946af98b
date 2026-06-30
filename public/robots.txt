@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://alin-nails-97458a6f.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

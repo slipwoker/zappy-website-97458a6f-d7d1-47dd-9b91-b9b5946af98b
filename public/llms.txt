@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://alin-nails-97458a6f.zappy5.app
+https://example.com
 גלו קטלוג עיצובי ציפורניים סוחף עם השראה, טרנדים ומוצרי טיפוח מבית ella mila nail care. היכנסו להתאהב מחדש בצבע, צורה ואמנות — ההשראה שלכם מתחילה כאן.
 
 ### השראה
-https://alin-nails-97458a6f.zappy5.app/inspiration
+https://example.com/inspiration
 דפדפו במאות לוקים שווים: ציפורני ג׳ל, אומנות ידנית וטרנדים חמים מבית ella and mila nail care. תנו לדמיון לרוץ ובחרו את העיצוב שיעשה לכן את היום — מושלם בכל גוון.
 
 ### אודות
-https://alin-nails-97458a6f.zappy5.app/about
+https://example.com/about
 הכירו מקרוב את התשוקה לציפורניים מושלמות: החזון, המומחיות והאהבה לפרטים הקטנים שמחברים בין ella mila nail care לבין הלקוחות שלנו. בואו לגלות למה אנחנו הבחירה הנכונה.
 
 ### צור קשר
-https://alin-nails-97458a6f.zappy5.app/contact
+https://example.com/contact
 יש שאלה על עיצוב, מוצר או טיפול? צרו קשר בקלות וקבלו מענה אישי ומקצועי על כל מה שקשור ל- ella and mila nail care. אנחנו כאן כדי להפוך כל רעיון למציאות נוצצת — כתבו לנו עכשיו.
 
 ### Products
-https://alin-nails-97458a6f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ❤️Alin nails❤️
 
 ### Product Detail
-https://alin-nails-97458a6f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ❤️Alin nails❤️
 
 ### Category
-https://alin-nails-97458a6f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ❤️Alin nails❤️
 
 ### תודה שפנית אלינו
-https://alin-nails-97458a6f.zappy5.app/thank-you
+https://example.com/thank-you
 ❤️Alin nails❤️ - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://alin-nails-97458a6f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://alin-nails-97458a6f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://alin-nails-97458a6f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,8 +75,8 @@ Beauty & Nail Care
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://alin-nails-97458a6f.zappy5.app/sitemap.xml
-- Robots: https://alin-nails-97458a6f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://alin-nails-97458a6f.zappy5.app/llms-full.txt
-- Products (JSON): https://alin-nails-97458a6f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://alin-nails-97458a6f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
